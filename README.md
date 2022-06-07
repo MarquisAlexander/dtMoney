@@ -8,7 +8,7 @@
   <a href="#-layout">Layout</a>
 </p>
 
-## :rocket: Tecnologias
+## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -20,13 +20,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Esse projeto foi desenvolvido baseado em aulas do ignite da rocketseat, com o intuito de aprimorar os conhecimentos sobre manipulação de estados no reactJS, persistencia e manipulaçãode dados no navegador através do localStorage, o uso de hooks do próprio react e também criamos nossos próprios hooks personalizados e consumo de api.
 
-## 🖼 Layout
+## 🧧 Layout
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51330232/112459677-dc639500-8d3c-11eb-87fb-9a4b3e18b1ed.png">
 <img src="https://user-images.githubusercontent.com/51330232/112459675-db326800-8d3c-11eb-8c77-52502c7f0cc7.png">
 </p>
 
-### :muscle: Quem deu aquela força para não desistir?
+## Aplicação online
+Você pode acessar a aplicação online no endereço: https://frontend-dtmoney.herokuapp.com/
+
+### 💪 Quem deu aquela força para não desistir?
 
 O pessoal da Rocketseat deram aquela mão quando as coisas ficaram ruins e me salvaram, sem me deixar desistir!
 Entrem na [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRAFhc)
